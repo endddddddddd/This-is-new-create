@@ -1,0 +1,58 @@
+body {
+  background-color: #ced7db
+  margin: 0 auto;
+}
+h1, h2{
+  color: black;
+}
+.myname {
+  color: white;
+}
+p {
+  text-indent: 5px
+}
+p{
+  text-align:
+  left;
+}
+h1, h2 {
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Jua', sans-serif;
+}
+.profile {
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}.profile img {
+  width: 60%
+  max-width: 400px
+}
+.info, .favorite-video {
+  padding: 10px 0px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.info {
+  padding: 10px 0px;
+  margin-bottom: 50px;
+  border-bottom: : 1px solid lightgrey;
+}
+.table_item {
+  color: Black;
+  font-weight: bold;
+}
+
+.favorite-video {
+  display: flex;
+  flex-wrap: wrap;
+justify-content: space-around;
+justify-content: space-between;
+}
+
+.video {
+  width: 300px
+  padding: 10px 20px
+}
+table{
+  border: 1px solid black;
+}
